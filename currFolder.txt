@@ -1,0 +1,10 @@
+IOSummaries.java
+ArrayLists.class
+HashMaps.java
+currFolder.txt
+EnhancedForloops.java
+IOSummaries.class
+HashMaps.class
+EnhancedForloops.class
+ArrayLists.java
+someFolder
